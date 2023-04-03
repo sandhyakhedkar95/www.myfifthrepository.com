@@ -1,5 +1,12 @@
 h1{
-    background-color: yellow;
-    height: 400px;
+    background-color: red;
+    height: 300px;
+    width: 650px;
+    border-color: black;
+    font-size: larger;
+}
+h2{
+    height: 300px;
     width: 600px;
+    background-color: yellow;
 }
