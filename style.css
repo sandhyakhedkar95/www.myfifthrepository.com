@@ -4,9 +4,21 @@ h1{
     width: 650px;
     border-color: black;
     font-size: larger;
+    font-style: bold;
 }
 h2{
     height: 300px;
     width: 600px;
     background-color: yellow;
+    font-size: larger;
+    font-style: italic;
+
+}
+h3{
+    height: 300px;
+    width: 600px;
+    background-color: blue;
+    font-size: x-large;
+    font-style: italic;
+    float: left;
 }
